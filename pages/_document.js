@@ -10,7 +10,7 @@ export default class MyDocument extends Document {
     return (
       <html>
         <Head>
-          <title>Plumco - Plumber Service Next Js Template</title>
+          <title>Eco-Frriends Co. Ltd</title>
         </Head>
         <body>
           <Main />

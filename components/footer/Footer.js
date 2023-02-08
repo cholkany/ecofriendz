@@ -55,7 +55,8 @@ const Footer = (props) => {
                                 <div className="contact-ft">
                                     <ul>
                                         <li><i className="fi flaticon-location"></i>Chan Building, South of the University of Juba, Next to Ivory Bank, Juba</li>
-                                        <li><i className="fi flaticon-phone-call"></i>+1 800 123 456 789</li>
+                                        <li><i className="fi flaticon-phone-call"></i>+211 918 189 973</li>
+                                        <li><i className="fi flaticon-phone-call"></i>+211 925 318 933</li>
                                         <li><i className="fi flaticon-send"></i>ecofriendsco.ltd@gmail.com</li>
                                         <li><i className="fi flaticon-send"></i>info@ecofriendsltd.com</li>
                                     </ul>

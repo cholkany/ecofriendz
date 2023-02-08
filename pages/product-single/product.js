@@ -34,8 +34,8 @@ const Product = ({ item, addToCart }) => {
             <span>(5.0 reviews)</span>
           </div>
           <div className="price">
-            <span className="current">${item.price}</span>
-            <span className="old">${item.delPrice}</span>
+            <span className="current"></span>
+            <span className="old"></span>
           </div>
           <ReactMarkdown children={item.data.attributes.description} />
           <div className="product-option">

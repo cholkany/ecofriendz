@@ -241,11 +241,11 @@ a:hover {
 
 /*** back to top **/
 .back-to-top {
-  background-color: rgba(0, 82, 218, 0.7);
+  background-color: #009a00;
   width: 45px;
   height: 45px;
   line-height: 45px;
-  border: 2px solid #0052da;
+  border: 2px solid #007a00;
   border-radius: 45px;
   text-align: center;
   display: none;
@@ -263,7 +263,7 @@ a:hover {
   }
 }
 .back-to-top:hover {
-  background-color: #0052da;
+  background-color: #009a00;
 }
 
 .back-to-top i {
@@ -1254,7 +1254,7 @@ a:hover {
 --------------------------------------------------------------*/
 /*-- 2.1 topbar --*/
 .topbar {
-  background: #253041;
+  background: #009a00;
 }
 
 @media (max-width: 991px) {
@@ -2945,7 +2945,7 @@ hero slider
 4. wpo-footer
 --------------------------------------------------------------*/
 .wpo-site-footer {
-  background: #253041;
+  background: #009a00;
   position: relative;
   font-size: 15px;
   overflow: hidden;
@@ -3032,7 +3032,7 @@ hero slider
   width: 36px;
   height: 36px;
   line-height: 40px;
-  background: rgba(255, 255, 255, 0.1);
+  background: #009a00;
   display: block;
   text-align: center;
   border-radius: 50%;

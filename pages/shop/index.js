@@ -5,7 +5,7 @@ import Scrollbar from '../../components/scrollbar/scrollbar'
 import { addToCart } from "../../store/actions/action";
 import ShopProduct from '../../components/ShopProduct';
 import api from "../../api";
-import Navbar2 from '../../components/Navbar2/Navbar2';
+import Navbar from '../../components/Navbar/Navbar';
 import Footer from '../../components/footer/Footer';
 
 const ShopPage = (props) => {
@@ -19,7 +19,7 @@ const ShopPage = (props) => {
 
   return (
     <Fragment>
-      <Navbar2/>
+      <Navbar/>
       <PageTitle pageTitle={"Shop"} pagesub={"Shop"} />
       <section className="wpo-shop-page section-padding">
         <div className="container">
